@@ -1,8 +1,8 @@
 from setuptools import setup
 
 
-setup(name='python-ntlm3',
-      version='1.0.3-dev',
+setup(name='shadiakiki1986-python-ntlm3',
+      version='1.0.4-dev',
       description='Python 3 compatible NTLM library',
       long_description="""
       This package allows Python clients running on any operating
@@ -10,9 +10,9 @@ setup(name='python-ntlm3',
         """,
       author='Matthijs Mullender',
       author_email='info@zopyx.org',
-      maintainer='Rachel Sanders',
-      maintainer_email='rachel@trustrachel.com',
-      url="https://github.com/trustrachel/python-ntlm3",
+      maintainer='Shadi Akiki',
+      maintainer_email='shadiakiki1986@gmail.com',
+      url="https://github.com/shadiakiki1986/python-ntlm3",
       packages=["ntlm3"],
       zip_safe=False,
       license="GNU Lesser GPL",
