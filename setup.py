@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='shadiakiki1986-python-ntlm3',
-      version='1.0.4-dev',
+      version='1.0.4.1-dev',
       description='Python 3 compatible NTLM library',
       long_description="""
       This package allows Python clients running on any operating
